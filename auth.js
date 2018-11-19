@@ -1,0 +1,3 @@
+function authrntication (login, password) {
+	
+}
